@@ -43,11 +43,6 @@
  * @update      2015-09-01
  * 
  * 
- * couple things that I may want to consider adding - 
- *      - way to handle arrays?
- *      - way to clean / sanitize strings?
- *      - way to handle other enc methods? 
- * 
  * 
  * 
  */
