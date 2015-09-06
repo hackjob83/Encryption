@@ -1,5 +1,5 @@
 # Encryption
-PHP Wrapper class for OpenSSL string encryption
+PHP Wrapper class for AES-256-CBC OpenSSL string encryption
 
 
 /**
